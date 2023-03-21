@@ -1,4 +1,5 @@
-import { useState, React } from 'react'
+import { useState } from 'react'
+import React from 'react'
 import './App.css'
 
 function App() {
@@ -54,8 +55,15 @@ function Game() {
     )
   })
 
+  var orientation = 'game'
+  if (window.innerWidth < 400) {
+    orientation = orientation + ' column'
+  } else {
+    orientation = orientation + ' row'
+  }
+
   return (
-    <div className="game">
+    <div className={orientation}>
       <div className="game-board">
         <Board xIsNext={xIsNext} squares={currentSquares} onPlay={handlePlay} />
       </div>
