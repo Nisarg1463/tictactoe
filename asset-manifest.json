@@ -1,15 +1,15 @@
 {
-  "main.css": "/tictactoe_react/static/css/main.b25bdc15.chunk.css",
-  "main.js": "/tictactoe_react/static/js/main.ebb6135b.chunk.js",
-  "main.js.map": "/tictactoe_react/static/js/main.ebb6135b.chunk.js.map",
-  "static/js/1.927bd4ba.chunk.js": "/tictactoe_react/static/js/1.927bd4ba.chunk.js",
-  "static/js/1.927bd4ba.chunk.js.map": "/tictactoe_react/static/js/1.927bd4ba.chunk.js.map",
-  "static/js/2.72174570.chunk.js": "/tictactoe_react/static/js/2.72174570.chunk.js",
-  "static/js/2.72174570.chunk.js.map": "/tictactoe_react/static/js/2.72174570.chunk.js.map",
-  "runtime~main.js": "/tictactoe_react/static/js/runtime~main.e990dccd.js",
-  "runtime~main.js.map": "/tictactoe_react/static/js/runtime~main.e990dccd.js.map",
-  "static/css/main.b25bdc15.chunk.css.map": "/tictactoe_react/static/css/main.b25bdc15.chunk.css.map",
-  "index.html": "/tictactoe_react/index.html",
-  "precache-manifest.116914a224621288b91a490ef5581d7e.js": "/tictactoe_react/precache-manifest.116914a224621288b91a490ef5581d7e.js",
-  "service-worker.js": "/tictactoe_react/service-worker.js"
+  "main.css": "/tictactoe/static/css/main.b25bdc15.chunk.css",
+  "main.js": "/tictactoe/static/js/main.ebb6135b.chunk.js",
+  "main.js.map": "/tictactoe/static/js/main.ebb6135b.chunk.js.map",
+  "static/js/1.927bd4ba.chunk.js": "/tictactoe/static/js/1.927bd4ba.chunk.js",
+  "static/js/1.927bd4ba.chunk.js.map": "/tictactoe/static/js/1.927bd4ba.chunk.js.map",
+  "static/js/2.72174570.chunk.js": "/tictactoe/static/js/2.72174570.chunk.js",
+  "static/js/2.72174570.chunk.js.map": "/tictactoe/static/js/2.72174570.chunk.js.map",
+  "runtime~main.js": "/tictactoe/static/js/runtime~main.216efef5.js",
+  "runtime~main.js.map": "/tictactoe/static/js/runtime~main.216efef5.js.map",
+  "static/css/main.b25bdc15.chunk.css.map": "/tictactoe/static/css/main.b25bdc15.chunk.css.map",
+  "index.html": "/tictactoe/index.html",
+  "precache-manifest.d980e4d2e331c4a58bf63cd1ac72bd47.js": "/tictactoe/precache-manifest.d980e4d2e331c4a58bf63cd1ac72bd47.js",
+  "service-worker.js": "/tictactoe/service-worker.js"
 }
